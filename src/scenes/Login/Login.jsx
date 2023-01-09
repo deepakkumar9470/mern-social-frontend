@@ -1,7 +1,6 @@
 import React from 'react'
 import {
   Box,
-  IconButton,
   Typography,
   useTheme, useMediaQuery
 } from '@mui/material'

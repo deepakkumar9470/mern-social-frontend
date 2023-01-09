@@ -10,7 +10,6 @@ import {
     useMediaQuery
 } from "@mui/material";
 import { EditOutlined,DeleteOutlined,GifBoxOutlined,AttachFileOutlined,ImageOutlined,MicOutlined,MoreHorizOutlined } from "@mui/icons-material";
-import { useNavigate } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
 import Dropzone from 'react-dropzone';
 import FlexBetween from "../../components/FlexBetween";
